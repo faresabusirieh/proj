@@ -38,3 +38,4 @@ seconds = 0
  seconds; 
  let minutesValues = minutes <10 ? '0$(minutes)' :
  minutes;
+ timeValue.innerHtml =
